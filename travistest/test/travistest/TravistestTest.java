@@ -18,25 +18,7 @@ import static org.junit.Assert.*;
  */
 public class TravistestTest {
     
-    public TravistestTest() {
-    }
-    
-    @BeforeClass
-    public static void setUpClass() {
-    }
-    
-    @AfterClass
-    public static void tearDownClass() {
-    }
-    
-    @Before
-    public void setUp() {
-    }
-    
-    @After
-    public void tearDown() {
-    }
-
+   
 
     /**
      * Test of vrat5 method, of class Travistest.
